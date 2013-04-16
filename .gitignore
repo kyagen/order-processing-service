@@ -1,0 +1,5 @@
+activemq-data/
+bin/
+muleEmbeddedDB/
+ObjectStore/
+derby.log
